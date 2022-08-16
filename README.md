@@ -14,4 +14,4 @@ Importance of traines and responsibilities of trainers at Fitness For Life.
 Contact Info and Contact Form for communicating with Fitness For Life.
 ![5](https://user-images.githubusercontent.com/79755338/184905272-d5e1bda3-2a67-45ef-87e2-f2a502cf05c7.png)
 
-The link for the website is:
+The link for the website is:https://purple-tree-0f57daf10.1.azurestaticapps.net/
